@@ -1,6 +1,6 @@
 {
   "name": "nicehash-basic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "crypto-js": "^4.0.0"
+    "crypto-js": "^4.0.0",
+    "qs": "^6.10.1"
   }
 }
